@@ -117,7 +117,7 @@ class NGWPRestMenus implements NGWPInterface
      */
     public function getList()
     {
-        $rest_url = trailingslashit(get_rest_url() . self::NG_WP_PLUGIN_NAMESPACE . '/menus/');
+        $rest_url = trailingslashit(get_rest_url() . self::NG_WP_MENU_NAMESPACE . '/menus/');
         $wp_menus = wp_get_nav_menus();
         $i = 0;
         $rest_menus = array();
