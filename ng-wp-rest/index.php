@@ -1,1 +1,0 @@
-<?php //slince is golden
