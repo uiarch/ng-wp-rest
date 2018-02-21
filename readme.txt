@@ -1,10 +1,11 @@
 === ng-wp-rest ===
 Contributors: Anthony Allen
-Donate link: 
-Tags: 
+Donate link: http://theuiarch.com
+Tags: rest api
 Requires at least: 4.0
 Tested up to: 4.0
-Stable tag: 
+Stable tag: trunk
+Requires PHP: 5.6
 License: GNU General Public License v3.0
 License URI: https://github.com/uiarch/ng-wp-rest/blob/master/LICENSE
 
@@ -42,6 +43,8 @@ Sidebars
 +  http://{url}/wp-json/ng-sidbar-route/v2/sidebars/{id}
 +  http://{url}/wp-json/ng-sidebar-route/v2/sidebars
 
+== Screenshots ==
++ None at this time as I don't think they are needed for this particular plugin.
 
 == Changelog ==
 
